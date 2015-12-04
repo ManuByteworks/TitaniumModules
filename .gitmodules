@@ -1,0 +1,3 @@
+[submodule "TiViewShadow"]
+	path = TiViewShadow
+	url = git@github.com:ManuByteworks/TiViewShadow.git
