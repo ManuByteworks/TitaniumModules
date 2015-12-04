@@ -1,3 +1,6 @@
 [submodule "TiViewShadow"]
 	path = TiViewShadow
 	url = git@github.com:ManuByteworks/TiViewShadow.git
+[submodule "TitaniumTableviewCellsExtended"]
+	path = TitaniumTableviewCellsExtended
+	url = git@github.com:ManuByteworks/TitaniumTableviewCellsExtended.git
